@@ -19,7 +19,7 @@ between their corresponding co-occurrence matrices. We further show an
 interactive texture tool that allows a user to adjust local characteristics
 of the synthesized texture image using the co-occurrence values directly.
 
-## Fidelity and Diversity
+## Fidelity and diversity
 <img src='figures/main_teaser.png'>
 <img src='figures/fidelity_diversity.png'>
 
@@ -32,7 +32,7 @@ of the synthesized texture image using the co-occurrence values directly.
 
 <img src='figures/interp_cooc.jpg'>
 
-## Large image generation with control
+## Large texture generation with control
 <img src='figures/large_2020.png'>
 
 
